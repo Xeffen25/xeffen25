@@ -1,4 +1,4 @@
-# EN: Hi, I'm Arun (Xeffen25) 👋
+# Hi, I'm Arun (Xeffen25) 👋
 
 I'm a full-stack web developer specializing in Astro, TypeScript, Liquid, and Cloudflare. I build high-performance websites and tools, focusing on efficiency, scalability, and user experience.
 
@@ -16,9 +16,9 @@ I'm a full-stack web developer specializing in Astro, TypeScript, Liquid, and Cl
 
 Let's build something awesome! 🚀
 
------
+> Spanish Version
 
-# ES: Hola, soy Arun (Xeffen25) 👋
+# Hola, soy Arun (Xeffen25) 👋
 
 Soy un desarrollador web full-stack especializado en Astro, TypeScript, Liquid y Cloudflare. Construyo sitios web y herramientas de alto rendimiento, centrándome en eficiencia, escalabilidad y experiencia de usuario.
 
