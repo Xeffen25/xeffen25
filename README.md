@@ -1,37 +1,46 @@
 # Hi, I'm Arun (Xeffen25) 👋
 
-I'm a full-stack web developer specializing in Astro, TypeScript, Liquid, and Cloudflare. I build high-performance websites and tools, focusing on efficiency, scalability, and user experience.
+**Full-Stack Developer | Performance Specialist | Freelance Solutions Architect**
 
-## 🛠️ Tech Stack
+I build high-performance web applications with a focus on **efficiency, scalability, and measurable results**. I don't just build the website you *want*; I build the tool your business *needs* to grow.
 
-- Frontend: Astro, React, TypeScript, Liquid, Remix
+---
 
-- Backend: Strapi, Cloudflare Workers and Pages, Shopify Themes and Hydrogen
+### 🛠️ Tech Stack & Specialized Skills
 
-## 📫 Let's Connect
+I architect solutions for speed and global scale, leveraging the modern Edge stack:
 
-- 🌍 Portfolio xeffen25.com(https://xeffen25.com)
+* **E-commerce:** Shopify Liquid (Themes) or Hydrogen (Headless) for high-conversion, custom storefronts.
+* **Frontend Architecture:** [Astro](https://astro.build/) and React for high-performance, SEO-first content delivery.
+* **Edge Infrastructure:** Expert use of the **Cloudflare Ecosystem** (Workers, Pages, KV, R2, and Images) to minimize latency.
+* **Database & Logic:** **Turso** and **Cloudflare D1** for distributed, SQLite-based data; Serverless architectures; and TypeScript-first development.
+* **Styling & UX:** Tailwind CSS for maintainable, performance-optimized design systems.
 
-- 💼 LinkedIn: linkedin.com/in/xeffen25
+---
 
-Let's build something awesome! 🚀
+### 🚀 My Approach: Performance over Fluff
 
-> Spanish Version
+I specialize in **conversion-driven development**. While others focus on flashy animations that kill load times, I focus on:
 
-# Hola, soy Arun (Xeffen25) 👋
+* **Core Web Vitals:** Ensuring your site is fast enough to actually rank on Google.
+* **Goal-Oriented Logic:** Building interfaces that guide users toward a sale or a signup.
+* **Scalable Infrastructure:** Using modern stacks that stay up during high traffic.
 
-Soy un desarrollador web full-stack especializado en Astro, TypeScript, Liquid y Cloudflare. Construyo sitios web y herramientas de alto rendimiento, centrándome en eficiencia, escalabilidad y experiencia de usuario.
+> **A Note on Design:** I am a code-first developer. I focus on logic and speed. For projects requiring high-end bespoke visuals, I collaborate with specialized designers to ensure the aesthetic matches the technical performance.
 
-## 🛠️ Stack Tecnológico
+---
 
-- Frontend: Astro, React, TypeScript, Liquid, Remix
+### 🔍 Want to see what I've built?
+I keep my latest work, case studies, and performance benchmarks over at my portfolio.
 
-- Backend: Strapi, Cloudflare Workers y Pages, Shopify Themes y Hydrogen
+👉 **Explore my Projects at [xeffen25.com](https://xeffen25.com)**
 
-## 📫 Conectemos
+---
 
-- 🌍 Portafolio xeffen25.com(https://xeffen25.com)
+### 📈 Ready to scale your project?
 
-- 💼 LinkedIn: linkedin.com/in/xeffen25
+The best way to see how I work and get in touch is through my portfolio. There, you can explore my case studies and find my direct contact booking link.
 
-¡Construyamos algo increíble! 🚀
+👉 **[View Portfolio & Contact Me at xeffen25.com](https://xeffen25.com)**
+
+**Let's build something that actually works.** 🚀
