@@ -1,6 +1,6 @@
 # Hi, I'm Arun (Xeffen25) 👋
 
-**Full-Stack Developer | Performance Specialist | Freelance Solutions Architect**
+## Full-Stack Developer | Performance Specialist | Freelance Solutions Architect
 
 I build high-performance web applications with a focus on **efficiency, scalability, and measurable results**. I don't just build the website you *want*; I build the tool your business *needs* to grow.
 
