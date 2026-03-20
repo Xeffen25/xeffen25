@@ -11,7 +11,7 @@ I build high-performance web applications with a focus on **efficiency, scalabil
 I architect solutions for speed and global scale, leveraging the modern Edge stack:
 
 * **E-commerce:** Shopify Liquid (Themes) or Hydrogen (Headless) for high-conversion, custom storefronts.
-* **Frontend Architecture:** [Astro](https://astro.build/) and React for high-performance, SEO-first content delivery.
+* **Frontend Architecture:** Astro and React for high-performance, SEO-first content delivery.
 * **Edge Infrastructure:** Expert use of the **Cloudflare Ecosystem** (Workers, Pages, KV, R2, and Images) to minimize latency.
 * **Database & Logic:** **Turso** and **Cloudflare D1** for distributed, SQLite-based data; Serverless architectures; and TypeScript-first development.
 * **Styling & UX:** Tailwind CSS for maintainable, performance-optimized design systems.
