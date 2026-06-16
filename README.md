@@ -1,4 +1,4 @@
-# Hi, I'm Arun (Xeffen25) 👋
+# Hi, I'm Xeffen25 👋
 
 ## Full-Stack Developer | Performance Specialist | Freelance Solutions Architect
 
